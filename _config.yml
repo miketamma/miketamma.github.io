@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "MikeT's Webpage"
 title_separator          : "-"
-subtitle                 : Version 0.004 # site tagline that appears below site title in masthead
+subtitle                 : Version 0.005 # site tagline that appears below site title in masthead
 name                     : "Michele Tammaro"
 description              : "An amazing website."
 url                      : "https://miketamma.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Michele Tammaro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Researcher in Theoretical Particle Physics at GGI."
   location         : "Galileo Galilei Institute for Theoretical Physics"
   email            :
   links:
