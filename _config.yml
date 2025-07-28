@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Michele Tammaro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher in Theoretical Particle Physics at GGI."
-  location         : "Galileo Galilei Institute for Theoretical Physics"
+  bio              : "Researcher in Theoretical Particle Physics at Galileo Galilei Institute for Theoretical Physics."
+  location         : "Firenze, sometimes Napoli"
   email            :
   links:
     - label: "Email"
