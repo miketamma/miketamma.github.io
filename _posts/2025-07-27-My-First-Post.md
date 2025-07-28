@@ -8,6 +8,7 @@ sidebar:
   enabled: true
   title: "Prova"
 tag: general
+share: false
 ---
 
 # Welcome
