@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My First Post!"
 exerpt: "My very first post"
 author: MikeT
