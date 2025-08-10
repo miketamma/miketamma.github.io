@@ -16,3 +16,14 @@ share: false
 **Hello world**
 
 Free Palestine
+
+{: .notice}
+This is a standard notice.
+
+{: .notice--info}
+This is an info notice.
+
+{: .notice--warning}
+This is a warning notice.
+
+<pre> ```python print("Hello, World!") ``` </pre>
