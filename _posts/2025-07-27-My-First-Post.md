@@ -9,6 +9,10 @@ sidebar:
   title: "Prova"
 tag: general
 share: false
+header:
+  overlay_image: /assets/images/FeynDiag1.jpg
+  overlay_filter: 0.3   # Dark overlay for readability (0 = none, 1 = full black)
+  caption: "QED interaction powered by FeynHEX"
 ---
 
 # Welcome
@@ -27,3 +31,5 @@ This is an info notice.
 This is a warning notice.
 
 <pre> ```python print("Hello, World!") ``` </pre>
+
+{% include figure image_path="/assets/images/FeynDiag1.jpg" alt="QED interaction powered by FeynHEX" caption="QED interaction powered by FeynHEX." %}{: .align-center}
