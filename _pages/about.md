@@ -14,7 +14,7 @@ sidebar:
 Hi! Here is a link to [GGI](https://www.ggi.infn.it)
 
 
-## 👋 Hi, I'm Jane Doe
+# 👋 Hi, I'm Jane Doe
 
 I’m a **web developer** and **data enthusiast** who loves building tools that make life easier.
 
