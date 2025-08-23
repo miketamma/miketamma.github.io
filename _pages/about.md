@@ -9,7 +9,7 @@ sidebar:
 
 check
 
-## Who am I?
+## Who am I
 
 **I am...**
 
