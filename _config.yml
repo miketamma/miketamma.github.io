@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "MikeT's Webpage"
 title_separator          : "-"
-subtitle                 : Version 0.21 # site tagline that appears below site title in masthead
+subtitle                 : Version 0.22 # site tagline that appears below site title in masthead
 name                     : "Michele Tammaro"
 description              : "An amazing website."
 url                      : "https://miketamma.github.io"
