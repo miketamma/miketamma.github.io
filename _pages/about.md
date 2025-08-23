@@ -9,7 +9,7 @@ sidebar:
 
 # Who am I?
 
-**I am...***
+**I am...**
 
 Hi! Here is a link to [GGI](https://www.ggi.infn.it)
 
