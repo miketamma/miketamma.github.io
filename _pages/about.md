@@ -9,7 +9,7 @@ sidebar:
 
 ## Heya, I'm Michele
 
-I’m a **researcher** in particle physics and a produ nerd since it was not mainstream.
+I’m a **researcher** in particle physics and a proud nerd since it was not mainstream.
 
 ---
 
