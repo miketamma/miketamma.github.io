@@ -25,7 +25,7 @@ By the way, here is my CV (which I may have forgot to update recently)
 
 ---
 
-If all these word on physics are meaningless to you, I'm trying to write out a basic understanding in some of the posts [here](https://miketamma.github.io) 
+If all these physics terms feel unfamiliar, don’t worry — I’m writing posts that explain the basics in simple terms. You can find them [here](/404.html) 
 
 ---
 
