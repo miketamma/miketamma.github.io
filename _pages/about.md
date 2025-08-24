@@ -7,59 +7,35 @@ sidebar:
   enabled: true
 ---
 
-## Who am I
+## Heya, I'm Michele
 
-**I am...**
-
-Hi! Here is a link to [GGI](https://www.ggi.infn.it)
-
-## 👋 Hi, I'm Jane Doe
-
-I’m a **web developer** and **data enthusiast** who loves building tools that make life easier.
+I’m a **researcher** in particle physics
 
 ---
 
 ## 🔍 Quick Facts
 
-<div class="grid__wrapper">
-
-<div class="grid__item" markdown="1">
 💻  
 **Focus**  
-Web Development & Data Visualization
-</div>
+Particle Physics Phenomenology
 
-<div class="grid__item" markdown="1">
+---
+
 🌍  
 **Based in**  
-Berlin, Germany
-</div>
+Firenze, Italy, as Researcher at [GGI](https://www.ggi.infn.it)
 
-<div class="grid__item" markdown="1">
-🎓  
-**Background**  
-Computer Science
-</div>
+---
 
-<div class="grid__item" markdown="1">
 ☕  
 **Fun Fact**  
 I probably drink too much coffee
-</div>
 
-</div>
 
 ---
 
 ## 📄 Download My CV
-Need more details? Grab a copy of my CV:
+A copy of my CV, probably forgot to update it recently:
 
 [Download CV](/assets/files/CV.pdf){: .btn .btn--primary}
-
----
-
-## 🔗 Find Me Online
-- [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Twitter](https://twitter.com/yourusername)  
 
