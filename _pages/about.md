@@ -21,7 +21,9 @@ I am currently a **Postdoc** at the Galileo Galilei Institute for Theoretical Ph
 
 By the way, here is my CV (which I may have forgot to update recently)
 
-[Download CV](/assets/files/CV.pdf){: .btn .btn--primary}
+[Download CV](/404.html){: .btn .btn--primary} 
+
+<!-- (/assets/files/CV.pdf) -->
 
 ---
 
