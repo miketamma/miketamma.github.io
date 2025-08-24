@@ -29,15 +29,3 @@ If all these physics terms feel unfamiliar, don’t worry — I’m writing post
 
 ---
 
- 
-<!-- **Fun Fact**  
-I probably drink too much coffee
-
-
----
-
-## 📄 Download My CV
-A copy of my CV, probably forgot to update it recently:
-
-[Download CV](/assets/files/CV.pdf){: .btn .btn--primary} -->
-
