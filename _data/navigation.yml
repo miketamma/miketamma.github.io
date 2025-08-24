@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "Friendly links"
     url: /otherlinks/
-  - title: "Search"
-    url: /search/
+ # - title: "Search"
+ #   url: /search/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
