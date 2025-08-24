@@ -21,5 +21,5 @@ sidebar:
 
 ## Other (?)
 
-Claudia Trash Tattoo [(Instagram)](https://www.instagram.com/claudia_trash), [Book an appointment](https://origintattoolondon.co.uk/claudia-trash), [Online Shop](https://www.claudiatrash.com)
+Claudia Trash Tattoo [Instagram](https://www.instagram.com/claudia_trash), [Book an appointment](https://origintattoolondon.co.uk/claudia-trash), [Online Shop](https://www.claudiatrash.com)
 
