@@ -20,7 +20,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read More"
     image_class: "feature-image"
-
   - image_path: /assets/images/blog.png
     alt: "Blog"
     title: "Blog"
@@ -29,7 +28,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "View Posts"
     image_class: "feature-image"
-
   - image_path: /assets/images/MBA_logo.jpeg
     alt: "Made By Alduccio"
     title: "Made By Alduccio"
