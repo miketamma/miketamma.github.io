@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Other links your should check out"
 layout: single
 permalink: /otherlinks/
 author_profile: true
@@ -7,9 +7,6 @@ sidebar:
   enabled: true
 ---
 
-## Some other people and sites you should check out
-
----
 
 ## Physics
 
