@@ -19,13 +19,17 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read More"
+    image_class: "feature-image"
+
   - image_path: /assets/images/blog.png
     alt: "Blog"
     title: "Blog"
-    excerpt: "Posts on particle physics explained simply, notes from my projects, some politics, and other stuff."
+    excerpt: "Particle physics explained simply, some of my projects, and other stuff."
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "View Posts"
+    image_class: "feature-image"
+
   - image_path: /assets/images/MBA_logo.jpeg
     alt: "Made By Alduccio"
     title: "Made By Alduccio"
@@ -33,5 +37,6 @@ feature_row:
     url: "/MBA/"
     btn_class: "btn--primary"
     btn_label: "Find out"
+    image_class: "feature-image"
 ---
 {% include feature_row %}
