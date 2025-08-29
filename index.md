@@ -27,11 +27,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "View Posts"
   - image_path: /assets/images/cv.png
-    alt: "CV"
-    title: "Curriculum Vitae"
-    excerpt: "Download my full CV as a PDF for details on my academic and professional experience."
-    url: "/assets/files/CV.pdf"
+    alt: "Made By Alduccio"
+    title: "Made By Alduccio"
+    excerpt: "A gallery of cool things that Alduccio makes."
+    url: "/MBA/"
     btn_class: "btn--primary"
-    btn_label: "Download CV"
+    btn_label: "Find out"
 ---
 {% include feature_row %}
