@@ -4,6 +4,10 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Made by Alduccio"
+    url: /MBA/
   - title: "Friendly links"
     url: /otherlinks/
  # - title: "Search"
