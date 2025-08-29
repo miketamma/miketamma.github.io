@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read More"
     image_class: "feature-image"
-  - image_path: /assets/images/FeynDiag2.jpeg
+  - image_path: /assets/images/FeynDiag2.jpg
     alt: "Blog"
     title: "Blog"
     excerpt: "Particle physics explained simply, some of my projects, and other stuff."
