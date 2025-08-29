@@ -12,7 +12,7 @@ excerpt: "Notes, articles, and thoughts on physics, coding, and science communic
 intro: 
   - excerpt: "Hi, I’m Jane Doe — a researcher and science communicator. I write about physics in simple terms, build small coding projects, and share resources for anyone curious about how the universe works."
 feature_row:
-  - image_path: /assets/images/about.png
+  - image_path: /assets/images/Quelo.jpg
     alt: "About"
     title: "About Me"
     excerpt: "Learn more about who I am. Please, I am cool, I swear."
