@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/FeynDiag1.jpg
   caption: "Exploring Particle Physics & Beyond"
 excerpt: "Notes, articles, and thoughts on physics, coding, and science communication."
 intro: 
