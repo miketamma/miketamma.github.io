@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/FeynDiag1.jpg
+  overlay_image: /assets/images/Lavagna.jpeg
   caption: "Exploring Particle Physics & Beyond"
 excerpt: "Notes, articles, and thoughts on physics, coding, and science communication."
 intro: 
@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read More"
     image_class: "feature-image"
-  - image_path: /assets/images/blog.png
+  - image_path: /assets/images/Busto.jpeg
     alt: "Blog"
     title: "Blog"
     excerpt: "Particle physics explained simply, some of my projects, and other stuff."
