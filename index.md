@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/MBA_logo.jpeg
     alt: "Made By Alduccio"
     title: "Made By Alduccio"
-    excerpt: "A gallery of cool things that Alduccio makes."
+    excerpt: "A gallery of cool things that Alduccio makes with his own hands."
     url: "/MBA/"
     btn_class: "btn--primary"
     btn_label: "Find out"
