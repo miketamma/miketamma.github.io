@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "MikeT's Webpage"
 layout: splash
 permalink: /
 author_profile: true
@@ -7,8 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/Lavagna.jpeg
-  caption: "Exploring Particle Physics & Beyond"
-excerpt: "Notes, articles, and thoughts on physics, coding, and science communication."
+  caption: "Random stuff on a blackboard"
+excerpt: "Someone told me it was good for jobs hunting to have a webpage, then I forgot and started using it for other things."
 intro: 
   - excerpt: "Hi, I’m Jane Doe — a researcher and science communicator. I write about physics in simple terms, build small coding projects, and share resources for anyone curious about how the universe works."
 feature_row:
