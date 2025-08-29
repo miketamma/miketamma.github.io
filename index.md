@@ -26,7 +26,7 @@ feature_row:
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "View Posts"
-  - image_path: /assets/images/cv.png
+  - image_path: /assets/images/MBA_logo.jpeg
     alt: "Made By Alduccio"
     title: "Made By Alduccio"
     excerpt: "A gallery of cool things that Alduccio makes."
