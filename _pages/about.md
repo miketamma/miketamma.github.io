@@ -1,13 +1,11 @@
 ---
-title: "About Me"
+title: "Hey, I'm Michele"
 layout: single
 permalink: /about/
 author_profile: true
 sidebar:
   enabled: true
 ---
-
-# Hey, I'm Michele
 
 I’m a **researcher** in particle physics and a proud nerd since it was not mainstream.
 
