@@ -12,7 +12,7 @@ excerpt: "Notes, articles, and thoughts on physics, coding, and science communic
 intro: 
   - excerpt: "Hi, I’m Jane Doe — a researcher and science communicator. I write about physics in simple terms, build small coding projects, and share resources for anyone curious about how the universe works."
 feature_row:
-  - image_path: /assets/images/Quelo.jpg
+  - image_path: /assets/images/Busto.jpeg
     alt: "About"
     title: "About Me"
     excerpt: "Learn more about who I am. Please, I am cool, I swear."
@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Read More"
     image_class: "feature-image"
-  - image_path: /assets/images/Busto.jpeg
+  - image_path: /assets/images/FeynDiag2.jpeg
     alt: "Blog"
     title: "Blog"
     excerpt: "Particle physics explained simply, some of my projects, and other stuff."
