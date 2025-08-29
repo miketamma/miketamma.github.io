@@ -1,8 +1,3 @@
-<!-- ---
-layout: home
-author_profile: true
----
- -->
 ---
 title: "Welcome"
 layout: splash
