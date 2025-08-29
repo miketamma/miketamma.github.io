@@ -15,14 +15,14 @@ feature_row:
   - image_path: /assets/images/about.png
     alt: "About"
     title: "About Me"
-    excerpt: "Learn more about who I am, my background, and what I do."
+    excerpt: "Learn more about who I am. Please, I am cool, I swear."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read More"
   - image_path: /assets/images/blog.png
     alt: "Blog"
     title: "Blog"
-    excerpt: "Posts on particle physics explained simply, and notes from my projects."
+    excerpt: "Posts on particle physics explained simply, notes from my projects, some politics, and other stuff."
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "View Posts"
