@@ -20,7 +20,7 @@ I am currently a **Postdoc** at the Galileo Galilei Institute for Theoretical Ph
 ### Quick facts
 
 - Working in theoretical high energy physics
-- My list of publications is on [InspireHEP](https://inspirehep.net/authors/1868970)
+- My list of publications is on <a href="https://inspirehep.net/authors/1868970" target="_blank" rel="noopener noreferrer">InspireHEP</a>
 - **Postdoc** at the GGI, Firenze, since June 2025
 - Before, I was **Postdoc** at the INFN, Firenze, 2023 - 2025, and at the Jozef Stefan Institute, Ljubljana, 2020 - 2023
 - **PhD** in particle physics theory, 2020, at the University of Cincinnati, Ohio, USA
