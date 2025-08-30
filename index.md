@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/Lavagna.jpeg
   caption: "Random stuff on a blackboard"
-excerpt: "Someone told me it was good for jobs hunting to have a webpage, then I forgot and started using it for other things."
+excerpt: "Someone told me it was good to have a personal webpage."
 intro: 
   - excerpt: "Hi, I’m Jane Doe — a researcher and science communicator. I write about physics in simple terms, build small coding projects, and share resources for anyone curious about how the universe works."
 feature_row:
