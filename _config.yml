@@ -205,6 +205,12 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Minimal Mistakes external links setting
+minimal_mistakes:
+  external_links:
+    new_tab: true
+    rel: noopener noreferrer
+
 
 # Markdown Processing
 kramdown:
